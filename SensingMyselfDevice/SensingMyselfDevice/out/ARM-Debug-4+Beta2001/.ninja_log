@@ -1,0 +1,6 @@
+# ninja log v5
+13	156	608807701	CMakeFiles/BPM.dir/oledc_hal.c.obj	51aa36014b7d471e
+7	180	608807701	CMakeFiles/BPM.dir/oledc_driver.c.obj	687671449be2e50
+1	277	608807701	CMakeFiles/BPM.dir/azure_iot_utilities.c.obj	152d62169c45370f
+10	337	608807701	CMakeFiles/BPM.dir/parson.c.obj	4b2e249077db2e3
+1	192	608808551	CMakeFiles/BPM.dir/main.c.obj	d98d41d95690e0b4

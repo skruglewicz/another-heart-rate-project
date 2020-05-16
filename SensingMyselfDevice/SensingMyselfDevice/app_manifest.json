@@ -1,0 +1,16 @@
+{
+  "SchemaVersion": 1,
+  "Name" : "SensingMe",
+  "ComponentId" : "4b7c3b83-37c6-4c91-9097-dff1b8296e13",
+  "EntryPoint": "/bin/app",
+  "CmdArgs": [],
+  "Capabilities": {
+    "AllowedConnections": [ "0xfred-hub.azure-devices.net" ],
+    "Gpio": [ 1, 2, 8, 9, 10, 12, 17, 43, 28 ],
+    "Uart": [],
+    "SpiMaster": [ "ISU1" ],
+    "I2cMaster": [ "ISU2" ],
+    "WifiConfig": false
+  },
+  "ApplicationType":"Default"
+}

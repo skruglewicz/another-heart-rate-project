@@ -1,0 +1,68 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "AzureSphereBlink3",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "AzureSphereBlink3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AzureSphereBlink3-Debug-5ddb12f2cb646cc68088.json",
+					"name" : "AzureSphereBlink3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MakeImage::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MakeImage-Debug-6519c5cffe82e956f0e9.json",
+					"name" : "MakeImage",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/skrug/source/repos/SensingMyself-master/SensingMyself-master/SensingMyselfDevice/SensingMyselfDevice/out/ARM-Debug-3",
+		"source" : "C:/Users/skrug/source/repos/SensingMyself-master/SensingMyself-master/SensingMyselfDevice/SensingMyselfDevice"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

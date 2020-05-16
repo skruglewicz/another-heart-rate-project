@@ -1,0 +1,4 @@
+C:/Users/skrug/source/repos/SensingMyself-master/SensingMyself-master/SensingMyselfDevice/SensingMyselfDevice/out/ARM-Debug-4+Beta2001/CMakeFiles/BPM.dir
+C:/Users/skrug/source/repos/SensingMyself-master/SensingMyself-master/SensingMyselfDevice/SensingMyselfDevice/out/ARM-Debug-4+Beta2001/CMakeFiles/MakeImage.dir
+C:/Users/skrug/source/repos/SensingMyself-master/SensingMyself-master/SensingMyselfDevice/SensingMyselfDevice/out/ARM-Debug-4+Beta2001/CMakeFiles/edit_cache.dir
+C:/Users/skrug/source/repos/SensingMyself-master/SensingMyself-master/SensingMyselfDevice/SensingMyselfDevice/out/ARM-Debug-4+Beta2001/CMakeFiles/rebuild_cache.dir

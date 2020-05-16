@@ -1,0 +1,4 @@
+C:/Users/skrug/source/repos/SensingMyself-master/SensingMyself-master/SensingMyselfDevice/SensingMyselfDevice/out/ARM-Debug-3/CMakeFiles/AzureSphereBlink3.dir
+C:/Users/skrug/source/repos/SensingMyself-master/SensingMyself-master/SensingMyselfDevice/SensingMyselfDevice/out/ARM-Debug-3/CMakeFiles/MakeImage.dir
+C:/Users/skrug/source/repos/SensingMyself-master/SensingMyself-master/SensingMyselfDevice/SensingMyselfDevice/out/ARM-Debug-3/CMakeFiles/edit_cache.dir
+C:/Users/skrug/source/repos/SensingMyself-master/SensingMyself-master/SensingMyselfDevice/SensingMyselfDevice/out/ARM-Debug-3/CMakeFiles/rebuild_cache.dir
